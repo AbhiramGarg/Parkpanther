@@ -19,4 +19,4 @@ The application provides a user-friendly interface for identifying and visualizi
 * **Parking Slot Occupancy Detection:** The machine learning model analyzes the video frames processed by OpenCV to determine the occupancy status of each parking slot.
 * **Visualization:** The application provides a clear visual representation of occupied and vacant parking spaces, enhancing user experience.
 
-###The images required to run the model are in the google drive:https://drive.google.com/drive/folders/1cO2-aJNXRRQcUz5JwJUUygst0lNLHe0Y?usp=drive_link
+### The images required to run the model are in the google drive:https://drive.google.com/drive/folders/1cO2-aJNXRRQcUz5JwJUUygst0lNLHe0Y?usp=drive_link
